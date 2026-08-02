@@ -1,0 +1,1 @@
+Select * From appointments Limit 5;

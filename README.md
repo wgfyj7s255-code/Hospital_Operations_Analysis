@@ -37,7 +37,6 @@ Completed:
 
 ## Key Findings
 
-Examples:
 - Identified hours with higher average delays.
 - Compared appointment volume with delay frequency.
 - Evaluated operational patterns throughout the day.
